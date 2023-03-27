@@ -3,7 +3,8 @@
 import random
 import turtle
 import time 
-import sy
+import sys
+import UserInterface.move()
 
 
 wn = turtle.Screen()
